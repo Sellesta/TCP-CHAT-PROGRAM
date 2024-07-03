@@ -1,0 +1,29 @@
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csprojAssemblyReference.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
